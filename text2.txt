@@ -1,4 +1,4 @@
 Hello from text2!
 
 
-This is from little feature branch!!
+This is from master branch!
